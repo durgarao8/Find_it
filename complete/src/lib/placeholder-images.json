@@ -1,0 +1,27 @@
+
+[
+  {
+    "type": "college-hero",
+    "url": "/R1.jpeg",
+    "alt": "RGUKT campus image 1",
+    "hint": "college entry"
+  },
+  {
+    "type": "college-hero",
+    "url": "/R2.jpg",
+    "alt": "RGUKT campus image 2",
+    "hint": "BLOCK"
+  },
+  {
+    "type": "college-hero",
+    "url": "/R3.jpg",
+    "alt": "RGUKT campus image 3",
+    "hint": "rooms"
+  },
+  {
+    "type": "college-hero",
+    "url": "/R4.jpg",
+    "alt": "RGUKT campus image 4",
+    "hint": "college library"
+  }
+]
